@@ -16,7 +16,7 @@ I work remotely and like to travel a lot.
   <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" width="25px">
 </code>
 <code>
-  <img src="https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_516/images/html/html5.png" width="25px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="25px">
 </code>
 <code>
   <img src="https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_516/images/html/html5.png" width="25px">
