@@ -27,3 +27,8 @@ I work remotely and like to travel a lot.
 <code>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="25px">
 </code>
+
+- 📍 &nbsp; Current location: Tashkent, Uzbekistan
+- 📝&nbsp; Ask me about anything, I am happy to help
+- 📞&nbsp; How to reach me: [@personall33](telegram.org)
+- 📞&nbsp; How to reach me: [ermatovbunyod37@gmail.com](gmail.com)
