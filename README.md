@@ -19,5 +19,5 @@ I work remotely and like to travel a lot.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="25px">
 </code>
 <code>
-  <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" width="25px">
+  <img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" width="25px">
 </code>
