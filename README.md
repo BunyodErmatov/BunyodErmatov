@@ -24,3 +24,6 @@ I work remotely and like to travel a lot.
 <code>
   <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="25px">
 </code>
+<code>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="25px">
+</code>
