@@ -7,5 +7,5 @@ I work remotely and like to travel a lot.
 ### Languages and tools I work with:
 
 <code>
-  <img src="https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png" height="25px">
+  <img src="https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_516/images/html/html5.png" height="25px">
 </code>
