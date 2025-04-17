@@ -8,6 +8,9 @@ I work remotely and like to travel a lot.
 
 
 <code>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZdMC_FB3iUt9yQZujx9L8Etp5FdbP75UJQ&s" width="25px">
+</code>
+<code>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQYe2poAe4-hvSHem-_-4lR419lT76W-klg&s" width="25px">
 </code>
 <code>
