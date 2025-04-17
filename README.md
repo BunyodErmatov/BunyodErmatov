@@ -6,6 +6,10 @@ I work remotely and like to travel a lot.
 
 ### Languages and tools I work with:
 
+
+<code>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQYe2poAe4-hvSHem-_-4lR419lT76W-klg&s" width="25px">
+</code>
 <code>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="25px">
 </code>
@@ -27,9 +31,7 @@ I work remotely and like to travel a lot.
 <code>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="25px">
 </code>
-<code>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQYe2poAe4-hvSHem-_-4lR419lT76W-klg&s" width="25px">
-</code>
+
 
 - 📍 &nbsp; Current location: Tashkent, Uzbekistan
 - 📝&nbsp; Ask me about anything, I am happy to help
