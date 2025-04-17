@@ -28,7 +28,7 @@ I work remotely and like to travel a lot.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="25px">
 </code>
 <code>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Flutter-logo.svg" width="25px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/1280px-Google-flutter-logo.svg.png" width="25px">
 </code>
 
 - 📍 &nbsp; Current location: Tashkent, Uzbekistan
